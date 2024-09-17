@@ -15,7 +15,7 @@ body {
     background-color: white;
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0 0 10px #rgb(0,0,0,0.1);
+    box-shadow: 0 0 10px rgb(0,0,0,0.1);
 }
 /* Estilos para el formulario */
 form {
@@ -58,4 +58,7 @@ li {
 li.completed {
     text-decoration: line-through;
     color: #888;
+}
+.buttons {
+    
 }
